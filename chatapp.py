@@ -54,8 +54,6 @@ def get_conversational_chain():
 
     return chain
 
-
-
 def user_input(user_question):
     embeddings = GoogleGenerativeAIEmbeddings(model = "models/embedding-001")
     
@@ -99,14 +97,14 @@ def main():
                 st.success("Done")
         
         st.write("---")
-        st.image("img/gkj.jpg")
-        st.write("AI App created by @ Gurpreet Kaur")  # add this line to display the image
+        st.image("img/ssr.jpg")
+        st.write("AI App created by @ Swasti Saha Roy")  # add this line to display the image
 
 
     st.markdown(
         """
         <div style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: #0E1117; padding: 15px; text-align: center;">
-            © <a href="https://github.com/gurpreetkaurjethra" target="_blank">Gurpreet Kaur Jethra</a> | Made with ❤️
+            © <a href="https://github.com/Swa-sti" target="_blank">Swasti Saha Roy</a> | Made with ❤️
         </div>
         """,
         unsafe_allow_html=True
