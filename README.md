@@ -22,7 +22,6 @@ The application follows these steps to provide responses to your questions:
 
 5. **Response Generation** : The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
 
-![Demo 2: Chatbot Output](img/LLMApp.jpg)
 
 --- 
 ## 🎯 Key Features
@@ -36,8 +35,6 @@ The application follows these steps to provide responses to your questions:
 - **LLM Model Compatibility**: Supports Google Gemini Pro, OpenAI GPT 3, Anthropic Claude, Llama2 and other open-source LLMs.
 
 
-![Demo 3: Chatbot Output](img/LLMAgents.jpg)
-
 
 ## 🌟Requirements
 
@@ -49,7 +46,7 @@ The application follows these steps to provide responses to your questions:
 - **faiss-cpu** : FAISS (Facebook AI Similarity Search) is a library developed by Facebook for efficient similarity search, Machine Learning Embeddings,Information Retrieval, content-based filtering and clustering of dense vectors.
 - **langchain_google_genai** : It is a package that provides an integration between LangChain and Google’s generative-ai SDK. It contains classes that extend the Embeddings class and provide methods for generating embeddings. The package can be used in a multipdf chatbot application to extract textual data from PDF documents and generate Accurate responses to user queries.
 
-![Demo 4: Chatbot Output](img/CALMOutput.jpg)
+
 ---
 
 ## ▶️Installation
