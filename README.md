@@ -49,25 +49,6 @@ The application follows these steps to provide responses to your questions:
 
 ---
 
-## ▶️Installation
-
-Clone the repository:
-
-`git clone https://github.com/GURPREETKAURJETHRA/Multi-PDFs_ChatApp_AI-Agent.git`
-
-Install the required Python packages:
-
-`pip install -r requirements.txt`
-
-Set up your Google API key from `https://makersuite.google.com/app/apikey` by creating a .env file in the root directory of the project with the following contents:
-
-`GOOGLE_API_KEY =<your-api-key-here>`
-
-Run the Streamlit app:
-
-`streamlit run app.py`
-
----
 ## 💡Usage
 
 To use the Multi-PDF-s 📚ChatApp AI Agent 🤖, U can have glimpse of look by clicking on this link : [Launch App On Streamlit](https://multi-pdfschatappai-agent.streamlit.app/). To run app, fork app and follow the below steps to start using it. Use the sidebar to upload PDF files and train the chatbot. Once trained, you can have conversations with the chatbot by entering questions in the text input field.
@@ -88,13 +69,4 @@ In case You want to run & implement project on your system then follow these ste
 The application will use conversational AI to provide responses based on the content of the uploaded documents. The responses will be displayed in the chat interface.
 
 ---
-## ©️ License 🪪 
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-#### **If you like this LLM Project do drop ⭐ to this repo**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
-
----
